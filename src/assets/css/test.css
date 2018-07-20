@@ -1,0 +1,754 @@
+/*样式重置*/
+body, div, ul, li, dl, dt, dd, p, ol, h1, h2, h3, h4, h5, h6, form, img, table, fieldset, legend {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+	
+ul, li, ol {
+	list-style: none;
+}
+
+img, fieldset {
+	border: 0;
+}
+
+/* img {
+	display: block;
+	border: none;
+} */
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 100;
+}
+
+input, a {
+	outline: none;
+}
+
+::-webkit-scrollbar {
+	width: 0;
+	height: 0;
+}
+
+body {
+	font-size: .1rem;
+	line-height: 1.3;
+	color: #2f2f2f;
+	font-family: "Hiragino Sans GB","Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei";
+}
+
+/*整个背景*/
+.bgGray {
+	background: #eeeeee;
+
+	
+}
+
+.bgWhite {
+	background: #fff;
+}
+
+.blueBg{
+	background: #2577E3;
+}
+
+/*按钮样式*/
+.blueBtn, .blueBtn:hover, .blueBtn:active, .blueBtn:focus {
+	background: #2577e3;
+	color: #ffffff;
+	border: none;
+}
+
+.btn {
+	height: 2.72rem;
+	background: transparent;
+	border: 1px solid #999;
+	outline: none;
+	line-height: 2.72rem;
+	color: #666;
+	border-radius: .32rem;
+	padding-left: .6rem;
+	padding-right: .6rem;
+	font-size: 1.28rem;
+}
+
+/*字体对齐方式*/
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+/*字体大小*/
+.fontSize-1 {
+	font-size: 0.064rem;
+}
+
+.fontSize-2 {
+	font-size: 0.08rem;
+}
+
+.fontSize-3 {
+	font-size: 0.096rem;
+}
+
+.fontSize-4 {
+	font-size: .112rem;
+}
+
+.fontSize-5 {
+	font-size: .128rem;
+}
+
+.fontSize-6 {
+	font-size: .144rem;
+}
+
+.fontSize-7 {
+	font-size: .16rem;
+}
+
+.fontSize-8 {
+	font-size: .176rem;
+}
+
+.fontSize-09 {
+	font-size: .072rem;
+}
+
+.fontSize-11 {
+	font-size: 0.88rem;
+}
+
+.fontSize-13 {
+	font-size: .104rem;
+}
+
+.fontSize-15 {
+	font-size: .12rem;
+}
+
+.fontSize-17 {
+	font-size: .136rem;
+}
+
+.fontSize-18 {
+	font-size: .144rem;
+}
+
+/*margin-right*/
+.mr1 {
+	margin-right: 0.08rem;
+}
+
+.mr2 {
+	margin-right: 0.08rem;
+}
+
+.mr3 {
+	margin-right: 0.08rem;
+}
+
+.mr4 {
+	margin-right: 0.08rem;
+}
+
+.mr5 {
+	margin-right: 0.08rem;
+}
+
+.mr6 {
+	margin-right: 0.08rem;
+}
+
+.mr7 {
+	margin-right: 0.08rem;
+}
+
+.mr8 {
+	margin-right: 0.08rem;
+}
+
+.mr9 {
+	margin-right: 0.08rem;
+}
+
+.mr10 {
+	margin-right: 0.08rem;
+}
+
+.mr05 {
+	margin-right: 0.04rem;
+}
+
+/*分割符*/
+.iconvgiLine:before {
+	content: "";
+	float: left;
+	height: 0.12rem;
+	width: 1px;
+	margin-top: 0.16rem;
+	border-left: 1px solid #cccccc;
+}
+
+/*小图标*/
+.icon {
+	display: inline-block;
+	vertical-align: middle;
+	width: 0.96rem;
+	height: 0.96rem;
+}
+
+
+/*浮动*/
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+  
+  /*清除浮动*/
+.clearFix {
+	*height: 1%;
+}
+
+.clearFix:after {
+	clear: both;
+	content: '.';
+	display: block;
+	height: 0;
+	line-height: 0;
+	overflow: hidden;
+}
+
+.disInlneBlk {
+	display: inline-block;
+}
+
+/* flex布局 */
+.disFlex {
+	display: flex;
+}
+
+.flexVis {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.flexBtwn{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.flexCl {
+	flex-direction: column;
+}
+
+/*flex大小*/
+.flex1 {
+	flex: 1;
+}
+
+.flex2 {
+	flex: 2;
+}
+
+.flex3 {
+	flex: 3;
+}
+
+.flex4 {
+	flex: 4;
+}
+
+.flex5 {
+	flex: 5;
+}
+
+.flex6 {
+	flex: 6;
+}
+
+.flex7 {
+	flex: 7;
+}
+
+.flex8 {
+	flex: 8;
+}
+
+/* 酒店机票火车banner box公用 */
+.bannerBox {
+	padding-top: 0.8rem;
+	width: 100%;
+	height: 1.6rem;
+	background-size: 100% 100%;
+}
+
+.bannerBox .btnChange {
+	margin: 0 auto;
+	width: 1.2rem;
+	height: .24rem;
+	border: 1px solid #ffffff;
+	border-radius: .208rem;
+	color: #ffffff;
+	font-size: .12rem;
+	line-height: .24rem;
+	text-align: center;
+}
+
+.bannerBox .btnChange .active {
+	border-radius: .208rem;
+	background: #ffffff;
+	color: #2577e3;
+}
+
+.bannerBox .btnChange p {
+	width: 50%;
+}
+
+/*机票酒店火车搜索框公用*/
+.searchBox {
+	position: absolute;
+	top: 1.64rem;
+	width: 100%;
+}
+
+.searchBox .searMain {
+	width: 90%;
+	margin: 0 auto;
+	border-radius: 0.04rem;
+	overflow: hidden;
+}
+
+.searchBox .searMain .searchTitle {
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.2);
+	height: 0.36rem;
+	font-size: 0.0128rem;
+	line-height: 0.36rem;
+}
+
+.searchBox .searMain .searchTitle span {
+	opacity: 1;
+	z-index: 11;
+	color: #ffffff;
+}
+
+.searchBox .searMain .searchTitle .active {
+	background-color: #ffffff;
+}
+
+.searchBox .searMain .searchTitle .active span {
+	color: #2577e3;
+}
+
+.searchBox .searMain .searchList {
+	font-size: 0.0128rem;
+	background: #ffffff;
+
+}
+
+.searchBox .searMain .searchList .searchOne {
+	padding: 0 .12rem;
+	height: .4rem;
+	line-height: .4rem;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.searchBox .searMain .searchList .searchOne .icon {
+	width: .192rem;
+	height: .192rem;
+	margin: .104rem auto;
+}
+
+.searchBox .searMain .searchBtn {
+	background: #ffffff;
+}
+
+/*大搜索按钮*/
+.searchBox .searMain .searchBtn .search {
+	margin: .208rem 0;
+	font-size: .128rem;
+	
+	
+	width: 90%;
+	height: .4rem;
+	border-radius: 0.04rem;
+}
+
+/* 机票酒店火车底部小图标公用 */
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: .36rem;
+	font-size: .112rem;
+	line-height: .36rem;
+	padding: 0 .32rem;
+	color: #b2b2b2;
+
+	
+}
+
+.footer img {
+	width: .12rem;
+	height: .12rem;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 0.04rem;
+}
+
+/* “违”，红底 */
+.outBtn {
+	display: inline-block;
+	background: #ff1111;
+	color: #ffffff;
+	font-size: 0.12rem;
+	line-height: 1;
+	padding: 0.03rem 0.03rem;
+	border-radius: 0.03rem;
+}
+
+/*往返小图标边框*/
+.goIcon {
+	height: .15rem;
+	padding: 0.016rem;
+	line-height: 1;
+	border-radius: 0.016rem;
+	margin-right: 0.04rem;
+}
+
+/*往返tag颜色*/
+.fillGoTag {
+	background: #2577e3;
+	color: #ffffff;
+}
+
+.fillBackTag {
+	background: #ff9b00;
+	color: #ffffff;
+}
+
+/*官网直销标签*/
+.selfSell {
+	display: inline-block;
+	border: 1px solid #ffa800;
+	color: #ffa800;
+	font-size: 0.08rem;
+    text-align: center;
+	border-radius: 0.02rem;
+	height: .2rem;	
+	line-height: .2rem;
+	width: .55rem;
+}
+
+/* 付款页面左右btn */
+.payIconLeft {
+    width:9.2rem;
+}
+
+.payIconRight{
+    width:9.2rem;
+    margin-left:1.6rem;
+    background: #2577e3;
+    color: #ffffff;
+}
+
+/*小灰色字体颜色*/
+.fontLight {
+	color: #9a9a9a;
+}
+
+/*字体颜色*/
+.orgStateFont {
+	color: #ff6e01;
+}
+
+.blueStateFont {
+	color: #2577e3;
+}
+
+.redStateFont {
+	color: #ff5555;
+}
+
+.greenStateFont {
+	color: #34a00e;
+}
+
+.darkGrayFont {
+	color: #8b8b8b;
+}
+
+.redColor {
+	color: #fe574f;
+}
+  
+  /*蓝色字体*/
+.blueColor {
+	color: #1a77e1;
+}
+
+.grayColor1 {
+	color: #8e8e8e;
+}
+
+.grayColor2 {
+	color: #686868;
+}
+
+.grayColor3 {
+	color: #666;
+}
+
+.grayColor4 {
+	color: #999;
+}
+
+.greColor {
+	color: #00A304;
+}
+
+.yellowColor {
+	color: #ff7800;
+}
+
+.whiteColor {
+	color: #fff;
+}
+/*边框颜色*/
+.redBor {
+	border: 1px solid #fd0100;
+}
+
+.orgBor {
+	border: 1px solid #ff6e01;
+}
+
+.blueBor {
+	border: 1px solid #2577e3;
+}
+
+.greenBor {
+	border: 1px solid #34a00e;
+}
+
+
+
+
+/* 遮罩层fade */
+.fade {
+	width:100%;
+    height:100%;
+    background:rgba(0, 0, 0, 0.5);
+    position: fixed;
+    left: 0;
+    top: 0;
+	z-index: 1;
+}
+
+/* 退改签弹窗 */
+.layerChangeLine {
+	width: 26rem;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin-left: -13rem;
+	margin-top: -50%;
+	height: auto;
+	font-size: 1.12rem;
+	background: #ffffff;
+	border-radius: 0.4rem;
+	z-index: 2;
+}
+
+.layerTop{
+	background: url('~@/assets/images/layer/bg-1@2x.png');
+}
+
+.cancel{
+	position: absolute;
+	top: 0;
+	right: 0.4rem;
+}
+
+.list{
+	padding:1.2rem;
+}
+
+.list p {
+	line-height: 1.6rem;
+}
+
+.list p .icon {
+	width: 1.12rem;
+	height: 1.12rem;
+	margin-right: 0.4rem;
+}
+
+.layerBody{
+	padding: 1.2rem;
+}
+
+.infoTable{
+	margin-top:1.2rem;
+	border: 1px solid #e2e2e2;
+	border-bottom: none;
+}
+
+.oneTr{
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.trTitle{
+	padding: 0.8rem 0rem;
+	border-right: 1px solid #e2e2e2;
+	width: 6.4rem;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.trBody{
+	padding: 0.8rem 0rem;
+}
+
+.trBody p {
+	padding-left: 0.8rem;
+	line-height: 1.6rem;
+}
+
+
+/* 违字弹窗 */
+.goPolicy p, .backPolicy p{
+	margin-bottom: 0.5rem;
+	text-align: center
+}
+
+.goPolicy, .backPolicy {
+	padding-top:1rem;
+}
+
+.test{
+	flex-direction:column;
+}
+
+
+
+/*酒店价格过滤器*/
+.hotelFilter{
+	background: #ffffff;
+	height: 3rem;
+	width: 100%;
+	z-index:999;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
+.filterBtn p {
+	height: .4rem;
+	line-height: .4rem;
+	border-bottom: 1px solid #e2e2e2;
+	font-size: .16rem;
+
+}
+.filterBtnAc{
+	background: #2577e3;
+	color:#ffffff;
+}
+
+.starFilter {
+	padding: .1rem;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.priceFilter{
+	padding: .1rem;
+}
+
+.star, .priceArea{
+	width: 28rem;
+	margin: 0 auto;
+}
+
+.filter{
+	text-align: center;
+	margin:.1rem 0.05rem 0 0.05rem;
+	background: #eeeeee;
+	border-radius: 0.04rem;
+	padding: 0.05rem .1rem;
+	border: 1px solid #eeeeee;
+}
+
+
+
+/*航班信息*/
+.flightInfo {
+	background: #2577e3;
+	padding: 0.05rem;
+}
+
+.flightInfo .flightInfoMain {
+	padding: 0 0.2rem;
+	border-radius: 0.05rem;
+	background: #ffffff;
+	width: 100%;
+}
+
+.flightInfo .flightInfoMain .top {
+	height: 0.4rem;
+	line-height: 0.4rem;
+}
+
+.flightInfo .flightInfoMain .top .icon {
+	width: 0.12rem;
+	height: 0.12rem;
+	border-radius: 50%;
+	margin-right: 0.005rem;
+}
+
+.flightInfo .flightInfoMain .middle {
+	height: 0.5rem;
+	border-bottom: 1px dashed #e2e2e2;
+}
+
+.flightInfo .flightInfoMain .middle p {
+	line-height: 0.22rem;
+}
+
+.flightInfo .flightInfoMain .middle .date {
+	width: 0.6rem;
+}
+
+.flightInfo .flightInfoMain .middle .date .blockIcon {
+	height: 0.16rem;
+	margin: 0.01rem auto;
+}
+
+.flightInfo .flightInfoMain .bottom {
+	line-height: 0.4rem;
+}
+
+.flightInfo .flightInfoMain .bottom .icon {
+	width: 0.16rem;
+	height: 0.16rem;
+}

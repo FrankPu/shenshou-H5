@@ -1,0 +1,25 @@
+.topHeader {
+	height: .4rem;
+	line-height: .4rem;
+	width: 100%;
+	background: #2577e3;
+	position: fixed;
+	left: 0;
+    top: 0;
+}
+
+.topInfo {
+	color: #ffffff;
+    position: absolute;
+    top:0;
+	right: 50%;
+    transform: translateX(50%);
+    font-size: .176rem;
+}
+
+.goBack {
+    margin-top: 0.07rem;
+	margin-left: 0.08rem;
+	height: 30px;
+	width: 30px;
+}

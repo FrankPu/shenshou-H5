@@ -1,0 +1,2656 @@
+{
+    "CityArrAY": [
+        {
+            "cities": [
+                {
+                    "cityname": "阿坝", 
+                    "pinyin": "ABA", 
+                    "py": "AB", 
+                    "szm": "AHJ", 
+                    "cityid": "2680", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2214", 
+                    "AirportName": "阿坝红原机场"
+                }, 
+                {
+                    "cityname": "阿尔山", 
+                    "pinyin": "AERSHAN", 
+                    "py": "AES", 
+                    "szm": "YIE ", 
+                    "cityid": "475", 
+                    "AreaId": "477", 
+                    "city": null, 
+                    "Airportid": "2202", 
+                    "AirportName": "伊尔施机场"
+                }, 
+                {
+                    "cityname": "阿克苏", 
+                    "pinyin": "AKESU", 
+                    "py": "AKS", 
+                    "szm": "AKU", 
+                    "cityid": "3443", 
+                    "AreaId": "3444", 
+                    "city": null, 
+                    "Airportid": "1050", 
+                    "AirportName": "阿克苏机场"
+                }, 
+                {
+                    "cityname": "阿拉善右旗", 
+                    "pinyin": "ALASHANYOUQI", 
+                    "py": "ALSYQ", 
+                    "szm": "RHT ", 
+                    "cityid": "495", 
+                    "AreaId": "497", 
+                    "city": null, 
+                    "Airportid": "2192", 
+                    "AirportName": "阿拉善右旗机场"
+                }, 
+                {
+                    "cityname": "阿拉善左旗", 
+                    "pinyin": "ALASHANZUOQI", 
+                    "py": "ALSZQ", 
+                    "szm": "AXF", 
+                    "cityid": "495", 
+                    "AreaId": "496", 
+                    "city": null, 
+                    "Airportid": "2166", 
+                    "AirportName": "阿拉善左旗机场"
+                }, 
+                {
+                    "cityname": "阿勒泰", 
+                    "pinyin": "ALETAY", 
+                    "py": "ALT", 
+                    "szm": "AAT", 
+                    "cityid": "3499", 
+                    "AreaId": "3500", 
+                    "city": null, 
+                    "Airportid": "875", 
+                    "AirportName": "阿勒泰机场"
+                }, 
+                {
+                    "cityname": "阿里", 
+                    "pinyin": "ALI", 
+                    "py": "AL", 
+                    "szm": "NGQ ", 
+                    "cityid": "3054", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2190", 
+                    "AirportName": "阿里昆莎机场"
+                }, 
+                {
+                    "cityname": "安康", 
+                    "pinyin": "ANKANG", 
+                    "py": "AK", 
+                    "szm": "AKA", 
+                    "cityid": "3177", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "876", 
+                    "AirportName": "安康机场"
+                }, 
+                {
+                    "cityname": "安庆", 
+                    "pinyin": "ANQING", 
+                    "py": "AQ", 
+                    "szm": "AQG", 
+                    "cityid": "1184", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "877", 
+                    "AirportName": "天柱山机场"
+                }, 
+                {
+                    "cityname": "鞍山", 
+                    "pinyin": "ANSHAN", 
+                    "py": "AS", 
+                    "szm": "AOG", 
+                    "cityid": "527", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "878", 
+                    "AirportName": "腾鳌机场"
+                }, 
+                {
+                    "cityname": "安顺", 
+                    "pinyin": "ANSHUN", 
+                    "py": "AS", 
+                    "szm": "AVA", 
+                    "cityid": "2765", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1041", 
+                    "AirportName": "黄果树机场"
+                }, 
+                {
+                    "cityname": "安阳", 
+                    "pinyin": "ANYANG", 
+                    "py": "AY", 
+                    "szm": "AYN", 
+                    "cityid": "1722", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "879", 
+                    "AirportName": "北郊机场"
+                }
+            ], 
+            "title": "A"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "白城", 
+                    "pinyin": "BaiCheng", 
+                    "py": "BC", 
+                    "szm": "DBC", 
+                    "cityid": "690", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2174", 
+                    "AirportName": "长安机场"
+                }, 
+                {
+                    "cityname": "百色", 
+                    "pinyin": "BAISE", 
+                    "py": "BS", 
+                    "szm": "AEB", 
+                    "cityid": "2390", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1058", 
+                    "AirportName": "百色机场"
+                }, 
+                {
+                    "cityname": "保山", 
+                    "pinyin": "BAOSHAN", 
+                    "py": "BS", 
+                    "szm": "BSD", 
+                    "cityid": "2873", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "880", 
+                    "AirportName": "保山机场"
+                }, 
+                {
+                    "cityname": "包头", 
+                    "pinyin": "BAOTOU", 
+                    "py": "BT", 
+                    "szm": "BAV", 
+                    "cityid": "388", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "881", 
+                    "AirportName": "二里半机场"
+                }, 
+                {
+                    "cityname": "巴彦淖尔", 
+                    "pinyin": "BAYANZHUOER", 
+                    "py": "BYZE", 
+                    "szm": "RLK ", 
+                    "cityid": "453", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2194", 
+                    "AirportName": "天吉泰机场"
+                }, 
+                {
+                    "cityname": "北海", 
+                    "pinyin": "BEIHAI", 
+                    "py": "BH", 
+                    "szm": "BHY", 
+                    "cityid": "2357", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "882", 
+                    "AirportName": "福成机场"
+                }, 
+                {
+                    "cityname": "北京", 
+                    "pinyin": "BEIJING", 
+                    "py": "BJ", 
+                    "szm": "BJS", 
+                    "cityid": "1", 
+                    "AreaId": "", 
+                    "city": "", 
+                    "Airportid": "", 
+                    "AirportName": ""
+                }, 
+                {
+                    "cityname": "北京首都", 
+                    "pinyin": "BEIJINGSHOUDU", 
+                    "py": "BJSD", 
+                    "szm": "PEK", 
+                    "cityid": "1", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "883", 
+                    "AirportName": "首都国际机场"
+                }, 
+                {
+                    "cityname": "北京南苑", 
+                    "pinyin": "BEIJINGNANYUAN", 
+                    "py": "BJNY", 
+                    "szm": "NAY", 
+                    "cityid": "1", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2171", 
+                    "AirportName": "南苑机场"
+                }, 
+                {
+                    "cityname": "毕节", 
+                    "pinyin": "BIJIE", 
+                    "py": "BJ", 
+                    "szm": "BFJ", 
+                    "cityid": "2773", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2168", 
+                    "AirportName": "飞雄机场"
+                }, 
+                {
+                    "cityname": "博乐", 
+                    "pinyin": "BOLE", 
+                    "py": "BL", 
+                    "szm": "BPL", 
+                    "cityid": "3429", 
+                    "AreaId": "3430", 
+                    "city": null, 
+                    "Airportid": "1076", 
+                    "AirportName": "博乐机场"
+                }, 
+                {
+                    "cityname": "布尔津", 
+                    "pinyin": "BUERJIN", 
+                    "py": "BEJ", 
+                    "szm": "KJI", 
+                    "cityid": "3499", 
+                    "AreaId": "3501", 
+                    "city": null, 
+                    "Airportid": "1079", 
+                    "AirportName": "喀纳斯机场"
+                }
+            ], 
+            "title": "B"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "沧源", 
+                    "pinyin": "CANGYUAN", 
+                    "py": "CY", 
+                    "szm": "CWJ ", 
+                    "cityid": "2912", 
+                    "AreaId": "2921", 
+                    "city": null, 
+                    "Airportid": "2173", 
+                    "AirportName": "佤山机场"
+                }, 
+                {
+                    "cityname": "白山", 
+                    "pinyin": "CHANGBAISHAN", 
+                    "py": "CBS", 
+                    "szm": "NBS", 
+                    "cityid": "675", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1064", 
+                    "AirportName": "长白山机场"
+                }, 
+                {
+                    "cityname": "长春", 
+                    "pinyin": "CHANGCHUN", 
+                    "py": "CC", 
+                    "szm": "CGQ", 
+                    "cityid": "629", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "885", 
+                    "AirportName": "龙嘉国际机场"
+                }, 
+                {
+                    "cityname": "常德", 
+                    "pinyin": "CHANGDE", 
+                    "py": "CD", 
+                    "szm": "CGD", 
+                    "cityid": "2059", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "886", 
+                    "AirportName": "桃花源机场"
+                }, 
+                {
+                    "cityname": "昌都", 
+                    "pinyin": "CHANGDU", 
+                    "py": "CD", 
+                    "szm": "BPX", 
+                    "cityid": "2999", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1069", 
+                    "AirportName": "邦达机场"
+                }, 
+                {
+                    "cityname": "长海", 
+                    "pinyin": "CHANGHAI", 
+                    "py": "CH", 
+                    "szm": "CNI", 
+                    "cityid": "515", 
+                    "AreaId": "523", 
+                    "city": null, 
+                    "Airportid": "2219", 
+                    "AirportName": "长海机场"
+                }, 
+                {
+                    "cityname": "长沙", 
+                    "pinyin": "CHANGSHA", 
+                    "py": "CS", 
+                    "szm": "CSX", 
+                    "cityid": "1991", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "888", 
+                    "AirportName": "黄花国际机场"
+                }, 
+                {
+                    "cityname": "长治", 
+                    "pinyin": "CHANGZHI", 
+                    "py": "CZ", 
+                    "szm": "CIH", 
+                    "cityid": "267", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "889", 
+                    "AirportName": "长治机场"
+                }, 
+                {
+                    "cityname": "常州", 
+                    "pinyin": "CHANGZHOU", 
+                    "py": "CZ", 
+                    "szm": "CZX", 
+                    "cityid": "919", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "890", 
+                    "AirportName": "奔牛国际机场"
+                }, 
+                {
+                    "cityname": "朝阳", 
+                    "pinyin": "CHAOYANG", 
+                    "py": "CY", 
+                    "szm": "CHG", 
+                    "cityid": "611", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "891", 
+                    "AirportName": "朝阳机场"
+                }, 
+                {
+                    "cityname": "承德", 
+                    "pinyin": "CHENGDE", 
+                    "py": "CD", 
+                    "szm": "CDE", 
+                    "cityid": "178", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2220", 
+                    "AirportName": "普宁机场"
+                }, 
+                {
+                    "cityname": "成都", 
+                    "pinyin": "CHENGDU", 
+                    "py": "CD", 
+                    "szm": "CTU", 
+                    "cityid": "2511", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1073", 
+                    "AirportName": "双流国际机场"
+                }, 
+                {
+                    "cityname": "赤峰", 
+                    "pinyin": "CHIFENG", 
+                    "py": "CF", 
+                    "szm": "CIF", 
+                    "cityid": "404", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "894", 
+                    "AirportName": "玉龙机场"
+                }, 
+                {
+                    "cityname": "重庆", 
+                    "pinyin": "CHONGQING", 
+                    "py": "CQ", 
+                    "szm": "CKG", 
+                    "cityid": "2469", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "896", 
+                    "AirportName": "江北国际机场"
+                }, 
+                {
+                    "cityname": "池州", 
+                    "pinyin": "CHZHOU", 
+                    "py": "CZ", 
+                    "szm": "JUH ", 
+                    "cityid": "1249", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2183", 
+                    "AirportName": "九华山机场"
+                }
+            ], 
+            "title": "C"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "大理", 
+                    "pinyin": "DALI", 
+                    "py": "DL", 
+                    "szm": "DLU", 
+                    "cityid": "2960", 
+                    "AreaId": "2961", 
+                    "city": null, 
+                    "Airportid": "897", 
+                    "AirportName": "大理机场"
+                }, 
+                {
+                    "cityname": "大连", 
+                    "pinyin": "DALIAN", 
+                    "py": "DL", 
+                    "szm": "DLC", 
+                    "cityid": "515", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "898", 
+                    "AirportName": "大连国际机场"
+                }, 
+                {
+                    "cityname": "丹东", 
+                    "pinyin": "DANDONG", 
+                    "py": "DD", 
+                    "szm": "DDG", 
+                    "cityid": "553", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1031", 
+                    "AirportName": "浪头国际机场"
+                }, 
+                {
+                    "cityname": "稻城", 
+                    "pinyin": "DAOCHENG", 
+                    "py": "DC", 
+                    "szm": "DCY ", 
+                    "cityid": "2694", 
+                    "AreaId": "2711", 
+                    "city": null, 
+                    "Airportid": "2175", 
+                    "AirportName": "亚丁机场"
+                }, 
+                {
+                    "cityname": "大庆", 
+                    "pinyin": "DAQING", 
+                    "py": "DQ", 
+                    "szm": "DQA", 
+                    "cityid": "776", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1068", 
+                    "AirportName": "萨尔图机场"
+                }, 
+                {
+                    "cityname": "大同", 
+                    "pinyin": "DATONG", 
+                    "py": "DT", 
+                    "szm": "DAT", 
+                    "cityid": "247", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "899", 
+                    "AirportName": "云冈机场"
+                }, 
+                {
+                    "cityname": "达州", 
+                    "pinyin": "DAZHOU", 
+                    "py": "DX", 
+                    "szm": "DAX", 
+                    "cityid": "2649", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "900", 
+                    "AirportName": "河市机场"
+                }, 
+                {
+                    "cityname": "德令哈", 
+                    "pinyin": "DELINGHA", 
+                    "py": "DLH", 
+                    "szm": "HXD ", 
+                    "cityid": "3358", 
+                    "AreaId": "3360", 
+                    "city": null, 
+                    "Airportid": "2182", 
+                    "AirportName": "德令哈机场"
+                }, 
+                {
+                    "cityname": "迪庆", 
+                    "pinyin": "DIQING", 
+                    "py": "DQ", 
+                    "szm": "DIG", 
+                    "cityid": "2984", 
+                    "AreaId": "2985", 
+                    "city": null, 
+                    "Airportid": "1045", 
+                    "AirportName": "香格里拉机场"
+                }, 
+                {
+                    "cityname": "东营", 
+                    "pinyin": "DONGYING", 
+                    "py": "DY", 
+                    "szm": "DOY", 
+                    "cityid": "1536", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1037", 
+                    "AirportName": "胜利机场"
+                }, 
+                {
+                    "cityname": "敦煌", 
+                    "pinyin": "DUNHUANG", 
+                    "py": "DH", 
+                    "szm": "DNH", 
+                    "cityid": "3254", 
+                    "AreaId": "3262", 
+                    "city": null, 
+                    "Airportid": "903", 
+                    "AirportName": "敦煌机场"
+                }
+            ], 
+            "title": "D"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "鄂尔多斯", 
+                    "pinyin": "EERDUOSI", 
+                    "py": "EEDS", 
+                    "szm": "DSN", 
+                    "cityid": "428", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "902", 
+                    "AirportName": "伊金霍洛机场"
+                }, 
+                {
+                    "cityname": "额济纳旗", 
+                    "pinyin": "EJINAQI", 
+                    "py": "EJNQ", 
+                    "szm": "EJN", 
+                    "cityid": "495", 
+                    "AreaId": "498", 
+                    "city": null, 
+                    "Airportid": "2176", 
+                    "AirportName": "桃来机场"
+                }, 
+                {
+                    "cityname": "恩施", 
+                    "pinyin": "ENSHI", 
+                    "py": "ES", 
+                    "szm": "ENH", 
+                    "cityid": "1976", 
+                    "AreaId": "1977", 
+                    "city": null, 
+                    "Airportid": "904", 
+                    "AirportName": "许家坪机场"
+                }, 
+                {
+                    "cityname": "二连浩特", 
+                    "pinyin": "ERLIANHAOTE", 
+                    "py": "ELHT", 
+                    "szm": "ERL", 
+                    "cityid": "482", 
+                    "AreaId": "483", 
+                    "city": null, 
+                    "Airportid": "1075", 
+                    "AirportName": "赛乌苏国际机场"
+                }
+            ], 
+            "title": "E"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "佛山", 
+                    "pinyin": "FOSHAN", 
+                    "py": "FS", 
+                    "szm": "FUO", 
+                    "cityid": "2189", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "905", 
+                    "AirportName": "沙堤机场"
+                }, 
+                {
+                    "cityname": "阜阳", 
+                    "pinyin": "FUYANG", 
+                    "py": "FY", 
+                    "szm": "FUG", 
+                    "cityid": "1216", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1061", 
+                    "AirportName": "西关机场"
+                }, 
+                {
+                    "cityname": "抚远", 
+                    "pinyin": "FUYUAN", 
+                    "py": "FY", 
+                    "szm": "FYJ ", 
+                    "cityid": "806", 
+                    "AreaId": "815", 
+                    "city": null, 
+                    "Airportid": "2177", 
+                    "AirportName": "东极机场"
+                }, 
+                {
+                    "cityname": "富蕴", 
+                    "pinyin": "FUYUN", 
+                    "py": "FY", 
+                    "szm": "FYN", 
+                    "cityid": "3499", 
+                    "AreaId": "3502", 
+                    "city": null, 
+                    "Airportid": "906", 
+                    "AirportName": "富蕴机场"
+                }, 
+                {
+                    "cityname": "福州", 
+                    "pinyin": "FUZHOU", 
+                    "py": "FZ", 
+                    "szm": "FOC", 
+                    "cityid": "1265", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "907", 
+                    "AirportName": "长乐国际机场"
+                }
+            ], 
+            "title": "F"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "甘南", 
+                    "pinyin": "GANNAN", 
+                    "py": "GN", 
+                    "szm": "GXH ", 
+                    "cityid": "3302", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2179", 
+                    "AirportName": "夏河机场"
+                }, 
+                {
+                    "cityname": "赣州", 
+                    "pinyin": "GANZHOU", 
+                    "py": "GZ", 
+                    "szm": "KOW", 
+                    "cityid": "1417", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "908", 
+                    "AirportName": "黄金机场"
+                }, 
+                {
+                    "cityname": "格尔木", 
+                    "pinyin": "GEERMU", 
+                    "py": "GEM", 
+                    "szm": "GOQ", 
+                    "cityid": "3358", 
+                    "AreaId": "3359", 
+                    "city": null, 
+                    "Airportid": "1057", 
+                    "AirportName": "格尔木机场"
+                }, 
+                {
+                    "cityname": "广元", 
+                    "pinyin": "GUANGYUAN", 
+                    "py": "GY", 
+                    "szm": "GYS", 
+                    "cityid": "2575", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "910", 
+                    "AirportName": "盘龙机场"
+                }, 
+                {
+                    "cityname": "广州", 
+                    "pinyin": "GUANGZHOU", 
+                    "py": "GZ", 
+                    "szm": "CAN", 
+                    "cityid": "2141", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "911", 
+                    "AirportName": "白云国际机场"
+                }, 
+                {
+                    "cityname": "桂林", 
+                    "pinyin": "GUILIN", 
+                    "py": "GL", 
+                    "szm": "KWL", 
+                    "cityid": "2329", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "912", 
+                    "AirportName": "两江国际机场"
+                }, 
+                {
+                    "cityname": "贵阳", 
+                    "pinyin": "GUIYANG", 
+                    "py": "GY", 
+                    "szm": "KWE", 
+                    "cityid": "2732", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "913", 
+                    "AirportName": "龙洞堡国际机场"
+                }, 
+                {
+                    "cityname": "果洛", 
+                    "pinyin": "GUOLUO", 
+                    "py": "GL", 
+                    "szm": "GMQ ", 
+                    "cityid": "3344", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2178", 
+                    "AirportName": "玛沁机场"
+                }, 
+                {
+                    "cityname": "固原", 
+                    "pinyin": "GUYUAN", 
+                    "py": "GY", 
+                    "szm": "GYU", 
+                    "cityid": "3384", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "893", 
+                    "AirportName": "六盘山机场"
+                }
+            ], 
+            "title": "G"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "哈尔滨", 
+                    "pinyin": "HAERBIN", 
+                    "py": "HEB", 
+                    "szm": "HRB", 
+                    "cityid": "707", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "919", 
+                    "AirportName": "太平国际机场"
+                }, 
+                {
+                    "cityname": "海口", 
+                    "pinyin": "HAIKOU", 
+                    "py": "HK", 
+                    "szm": "HAK", 
+                    "cityid": "2441", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "914", 
+                    "AirportName": "美兰国际机场"
+                }, 
+                {
+                    "cityname": "海拉尔", 
+                    "pinyin": "HAILAR", 
+                    "py": "HLE", 
+                    "szm": "HLD", 
+                    "cityid": "438", 
+                    "AreaId": "440", 
+                    "city": null, 
+                    "Airportid": "915", 
+                    "AirportName": "东山机场"
+                }, 
+                {
+                    "cityname": "哈密", 
+                    "pinyin": "HAMI", 
+                    "py": "HM", 
+                    "szm": "HMI", 
+                    "cityid": "3417", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "916", 
+                    "AirportName": "哈密机场"
+                }, 
+                {
+                    "cityname": "邯郸", 
+                    "pinyin": "HANDAN", 
+                    "py": "HD", 
+                    "szm": "HDG", 
+                    "cityid": "90", 
+                    "AreaId": "96", 
+                    "city": null, 
+                    "Airportid": "585", 
+                    "AirportName": "邯郸机场"
+                }, 
+                {
+                    "cityname": "杭州", 
+                    "pinyin": "HANGZHOU", 
+                    "py": "HZ", 
+                    "szm": "HGH", 
+                    "cityid": "1013", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "917", 
+                    "AirportName": "萧山国际机场"
+                }, 
+                {
+                    "cityname": "汉中", 
+                    "pinyin": "HANZHONG", 
+                    "py": "HZ", 
+                    "szm": "HZG", 
+                    "cityid": "3150", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "918", 
+                    "AirportName": "城固机场"
+                }, 
+                {
+                    "cityname": "河池", 
+                    "pinyin": "HECHI", 
+                    "py": "HC", 
+                    "szm": "HCJ", 
+                    "cityid": "2410", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2209", 
+                    "AirportName": "金城江机场"
+                }, 
+                {
+                    "cityname": "合肥", 
+                    "pinyin": "HEFEI", 
+                    "py": "HF", 
+                    "szm": "HFE", 
+                    "cityid": "1126", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "920", 
+                    "AirportName": "新桥国际机场"
+                }, 
+                {
+                    "cityname": "黑河", 
+                    "pinyin": "HEIHE", 
+                    "py": "HH", 
+                    "szm": "HEK", 
+                    "cityid": "836", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "921", 
+                    "AirportName": "瑷珲机场"
+                }, 
+                {
+                    "cityname": "衡阳", 
+                    "pinyin": "HENGYANG", 
+                    "py": "HY", 
+                    "szm": "HNY", 
+                    "cityid": "2020", 
+                    "AreaId": "2027", 
+                    "city": null, 
+                    "Airportid": "922", 
+                    "AirportName": "南岳机场"
+                }, 
+                {
+                    "cityname": "和田", 
+                    "pinyin": "HETIAN", 
+                    "py": "HT", 
+                    "szm": "HTN", 
+                    "cityid": "3471", 
+                    "AreaId": "3473", 
+                    "city": null, 
+                    "Airportid": "1051", 
+                    "AirportName": "和田机场"
+                }, 
+                {
+                    "cityname": "淮安", 
+                    "pinyin": "HUAIAN", 
+                    "py": "HA", 
+                    "szm": "HIA", 
+                    "cityid": "960", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1074", 
+                    "AirportName": "涟水机场"
+                }, 
+                {
+                    "cityname": "黄山", 
+                    "pinyin": "HUANGSHAN", 
+                    "py": "HS", 
+                    "szm": "TXN", 
+                    "cityid": "1197", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "924", 
+                    "AirportName": "屯溪国际机场"
+                }, 
+                {
+                    "cityname": "花土沟", 
+                    "pinyin": "HUATUGOU", 
+                    "py": "HTG", 
+                    "szm": "HTT ", 
+                    "cityid": "3358", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2181", 
+                    "AirportName": "花土沟机场"
+                }, 
+                {
+                    "cityname": "呼和浩特", 
+                    "pinyin": "HUHEHAOTE", 
+                    "py": "HHHT", 
+                    "szm": "HET", 
+                    "cityid": "377", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "923", 
+                    "AirportName": "白塔国际机场"
+                }, 
+                {
+                    "cityname": "惠州", 
+                    "pinyin": "HUIZHOU", 
+                    "py": "HZ", 
+                    "szm": "HUZ", 
+                    "cityid": "2234", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2221", 
+                    "AirportName": "平潭机场"
+                }, 
+                {
+                    "cityname": "霍林郭勒", 
+                    "pinyin": "HUOLINGUOLE", 
+                    "py": "HLGL", 
+                    "szm": "HUO", 
+                    "cityid": "418", 
+                    "AreaId": "427", 
+                    "city": null, 
+                    "Airportid": "2218", 
+                    "AirportName": "霍林河飞机场"
+                }
+            ], 
+            "title": "H"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "加格达奇", 
+                    "pinyin": "JIAGEDAQI", 
+                    "py": "JGDQ", 
+                    "szm": "JGD", 
+                    "cityid": "3624", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1083", 
+                    "AirportName": "加格达奇机场"
+                }, 
+                {
+                    "cityname": "佳木斯", 
+                    "pinyin": "JIAMUSI", 
+                    "py": "JMS", 
+                    "szm": "JMU", 
+                    "cityid": "806", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "927", 
+                    "AirportName": "东郊机场"
+                }, 
+                {
+                    "cityname": "吉安", 
+                    "pinyin": "JIAN", 
+                    "py": "JA", 
+                    "szm": "KNC", 
+                    "cityid": "1437", 
+                    "AreaId": "1441", 
+                    "city": null, 
+                    "Airportid": "928", 
+                    "AirportName": "吉安机场"
+                }, 
+                {
+                    "cityname": "嘉峪关", 
+                    "pinyin": "JIAYUGUAN", 
+                    "py": "JYG", 
+                    "szm": "JGN", 
+                    "cityid": "3209", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "929", 
+                    "AirportName": "嘉峪关机场"
+                }, 
+                {
+                    "cityname": "揭阳", 
+                    "pinyin": "JIEYANG", 
+                    "py": "JY", 
+                    "szm": "SWA", 
+                    "cityid": "2288", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "974", 
+                    "AirportName": "潮汕机场"
+                }, 
+                {
+                    "cityname": "吉林", 
+                    "pinyin": "JILIN", 
+                    "py": "JL", 
+                    "szm": "JIL", 
+                    "cityid": "641", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "930", 
+                    "AirportName": "二台子机场"
+                }, 
+                {
+                    "cityname": "济南", 
+                    "pinyin": "JINAN", 
+                    "py": "JN", 
+                    "szm": "TNA", 
+                    "cityid": "1492", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "931", 
+                    "AirportName": "遥墙国际机场"
+                }, 
+                {
+                    "cityname": "金昌", 
+                    "pinyin": "JINCHANG", 
+                    "py": "JC", 
+                    "szm": "JIC", 
+                    "cityid": "3211", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2207", 
+                    "AirportName": "金川机场"
+                }, 
+                {
+                    "cityname": "景德镇", 
+                    "pinyin": "JINGDEZHEN", 
+                    "py": "JDZ", 
+                    "szm": "JDZ", 
+                    "cityid": "1380", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "932", 
+                    "AirportName": "景德镇机场"
+                }, 
+                {
+                    "cityname": "井冈山", 
+                    "pinyin": "JINGGANGSHAN", 
+                    "py": "JGS", 
+                    "szm": "JGS", 
+                    "cityid": "1437", 
+                    "AreaId": "1451", 
+                    "city": null, 
+                    "Airportid": "1049", 
+                    "AirportName": "井冈山机场"
+                }, 
+                {
+                    "cityname": "济宁", 
+                    "pinyin": "JINING", 
+                    "py": "JN", 
+                    "szm": "JNG", 
+                    "cityid": "1571", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "933", 
+                    "AirportName": "曲阜机场"
+                }, 
+                {
+                    "cityname": "锦州", 
+                    "pinyin": "JINZHOU", 
+                    "py": "JZ", 
+                    "szm": "JNZ", 
+                    "cityid": "561", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "934", 
+                    "AirportName": "锦州湾机场"
+                }, 
+                {
+                    "cityname": "九江", 
+                    "pinyin": "JIUJIANG", 
+                    "py": "JJ", 
+                    "szm": "JIU", 
+                    "cityid": "1393", 
+                    "AreaId": "1397", 
+                    "city": null, 
+                    "Airportid": "935", 
+                    "AirportName": "庐山机场"
+                }, 
+                {
+                    "cityname": "酒泉", 
+                    "pinyin": "JIUQUAN", 
+                    "py": "JQ", 
+                    "szm": "CHW", 
+                    "cityid": "3254", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "936", 
+                    "AirportName": "酒泉机场"
+                }, 
+                {
+                    "cityname": "九寨沟", 
+                    "pinyin": "JIUZHAIGOU", 
+                    "py": "JZG", 
+                    "szm": "JZH", 
+                    "cityid": "2680", 
+                    "AreaId": "2685", 
+                    "city": null, 
+                    "Airportid": "1029", 
+                    "AirportName": "黄龙机场"
+                }, 
+                {
+                    "cityname": "鸡西", 
+                    "pinyin": "JIXI", 
+                    "py": "JX", 
+                    "szm": "JXA", 
+                    "cityid": "745", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1071", 
+                    "AirportName": "兴凯湖机场"
+                }
+            ], 
+            "title": "J"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "凯里", 
+                    "pinyin": "KAILI", 
+                    "py": "KL", 
+                    "szm": "KJH ", 
+                    "cityid": "2804", 
+                    "AreaId": "2805", 
+                    "city": null, 
+                    "Airportid": "2184", 
+                    "AirportName": "黄平机场"
+                }, 
+                {
+                    "cityname": "康定", 
+                    "pinyin": "KANGDING", 
+                    "py": "KD", 
+                    "szm": "KGT", 
+                    "cityid": "2694", 
+                    "AreaId": "2695", 
+                    "city": null, 
+                    "Airportid": "1065", 
+                    "AirportName": "康定机场"
+                }, 
+                {
+                    "cityname": "喀什", 
+                    "pinyin": "KASHI", 
+                    "py": "KS", 
+                    "szm": "KHG", 
+                    "cityid": "3458", 
+                    "AreaId": "3459", 
+                    "city": null, 
+                    "Airportid": "937", 
+                    "AirportName": "喀什机场"
+                }, 
+                {
+                    "cityname": "克拉玛依", 
+                    "pinyin": "KELAMAYI", 
+                    "py": "KLMY", 
+                    "szm": "KRY", 
+                    "cityid": "3407", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "938", 
+                    "AirportName": "克拉玛依机场"
+                }, 
+                {
+                    "cityname": "库车", 
+                    "pinyin": "KUCHE", 
+                    "py": "KC", 
+                    "szm": "KCA", 
+                    "cityid": "3443", 
+                    "AreaId": "3446", 
+                    "city": null, 
+                    "Airportid": "941", 
+                    "AirportName": "龟兹机场"
+                }, 
+                {
+                    "cityname": "库尔勒", 
+                    "pinyin": "KUERLE", 
+                    "py": "KEL", 
+                    "szm": "KRL", 
+                    "cityid": "3433", 
+                    "AreaId": "3434", 
+                    "city": null, 
+                    "Airportid": "939", 
+                    "AirportName": "库尔勒机场"
+                }, 
+                {
+                    "cityname": "昆明", 
+                    "pinyin": "KUNMING", 
+                    "py": "KM", 
+                    "szm": "KMG", 
+                    "cityid": "2835", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "940", 
+                    "AirportName": "长水国际机场"
+                }
+            ], 
+            "title": "K"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "澜沧", 
+                    "pinyin": "LANCANG", 
+                    "py": "LC", 
+                    "szm": "JMJ", 
+                    "cityid": "2900", 
+                    "AreaId": "2910", 
+                    "city": null, 
+                    "Airportid": "2215", 
+                    "AirportName": "景迈机场"
+                }, 
+                {
+                    "cityname": "兰州", 
+                    "pinyin": "LANZHOU", 
+                    "py": "LZ", 
+                    "szm": "LHW", 
+                    "cityid": "3199", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "943", 
+                    "AirportName": "中川国际机场"
+                }, 
+                {
+                    "cityname": "拉萨", 
+                    "pinyin": "LASHA", 
+                    "py": "LS", 
+                    "szm": "LXA", 
+                    "cityid": "2989", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "944", 
+                    "AirportName": "贡嘎国际机场"
+                }, 
+                {
+                    "cityname": "连云港", 
+                    "pinyin": "LIANYUNGANG", 
+                    "py": "LYG", 
+                    "szm": "LYG", 
+                    "cityid": "951", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "946", 
+                    "AirportName": "白塔埠机场"
+                }, 
+                {
+                    "cityname": "荔波", 
+                    "pinyin": "LIBO", 
+                    "py": "LB", 
+                    "szm": "LLB ", 
+                    "cityid": "2821", 
+                    "AreaId": "2824", 
+                    "city": null, 
+                    "Airportid": "2187", 
+                    "AirportName": "荔波机场"
+                }, 
+                {
+                    "cityname": "丽江", 
+                    "pinyin": "LIJIANG", 
+                    "py": "LJ", 
+                    "szm": "LJG", 
+                    "cityid": "2893", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "947", 
+                    "AirportName": "三义机场"
+                }, 
+                {
+                    "cityname": "临沧", 
+                    "pinyin": "LINCANG", 
+                    "py": "LC", 
+                    "szm": "LNJ", 
+                    "cityid": "2912", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1052", 
+                    "AirportName": "临沧机场"
+                }, 
+                {
+                    "cityname": "临汾", 
+                    "pinyin": "LINFEN", 
+                    "py": "LF", 
+                    "szm": "LFQ ", 
+                    "cityid": "342", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2186", 
+                    "AirportName": "乔李机场"
+                }, 
+                {
+                    "cityname": "临沂", 
+                    "pinyin": "LINYI", 
+                    "py": "LY", 
+                    "szm": "LYI", 
+                    "cityid": "1609", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "949", 
+                    "AirportName": "沭埠岭机场"
+                }, 
+                {
+                    "cityname": "林芝", 
+                    "pinyin": "LINZHI", 
+                    "py": "LZ", 
+                    "szm": "LZY", 
+                    "cityid": "3062", 
+                    "AreaId": "3063", 
+                    "city": null, 
+                    "Airportid": "1048", 
+                    "AirportName": "米林机场"
+                }, 
+                {
+                    "cityname": "黎平", 
+                    "pinyin": "LIPING", 
+                    "py": "LP", 
+                    "szm": "HZH", 
+                    "cityid": "2804", 
+                    "AreaId": "2815", 
+                    "city": null, 
+                    "Airportid": "1040", 
+                    "AirportName": "黎平机场"
+                }, 
+                {
+                    "cityname": "六盘水", 
+                    "pinyin": "LIUPANSHUI", 
+                    "py": "LPS", 
+                    "szm": "LPF ", 
+                    "cityid": "2744", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2189", 
+                    "AirportName": "月照机场"
+                }, 
+                {
+                    "cityname": "柳州", 
+                    "pinyin": "LIUZHOU", 
+                    "py": "LZ", 
+                    "szm": "LZH", 
+                    "cityid": "2317", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "951", 
+                    "AirportName": "白莲机场"
+                }, 
+                {
+                    "cityname": "龙岩", 
+                    "pinyin": "LONGYAN", 
+                    "py": "LY", 
+                    "szm": "LCX ", 
+                    "cityid": "1348", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2185", 
+                    "AirportName": "冠豸山机场"
+                }, 
+                {
+                    "cityname": "洛阳", 
+                    "pinyin": "LUOYANG", 
+                    "py": "LY", 
+                    "szm": "LYA", 
+                    "cityid": "1693", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "952", 
+                    "AirportName": "洛阳北郊机场"
+                }, 
+                {
+                    "cityname": "泸州", 
+                    "pinyin": "LUZHOU", 
+                    "py": "LZ", 
+                    "szm": "LZO", 
+                    "cityid": "2547", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "954", 
+                    "AirportName": "蓝田机场"
+                }, 
+                {
+                    "cityname": "吕梁", 
+                    "pinyin": "LVLIANG", 
+                    "py": "LL", 
+                    "szm": "LLV ", 
+                    "cityid": "361", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2188", 
+                    "AirportName": "吕梁机场"
+                }
+            ], 
+            "title": "L"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "芒市", 
+                    "pinyin": "MANGSHI", 
+                    "py": "MS", 
+                    "szm": "LUM", 
+                    "cityid": "2973", 
+                    "AreaId": "2975", 
+                    "city": null, 
+                    "Airportid": "1038", 
+                    "AirportName": "芒市机场"
+                }, 
+                {
+                    "cityname": "满洲里", 
+                    "pinyin": "MANZHOULI", 
+                    "py": "MZL", 
+                    "szm": "NZH", 
+                    "cityid": "438", 
+                    "AreaId": "448", 
+                    "city": null, 
+                    "Airportid": "1034", 
+                    "AirportName": "西郊机场"
+                }, 
+                {
+                    "cityname": "梅州", 
+                    "pinyin": "MEIZHOU", 
+                    "py": "MZ", 
+                    "szm": "MXZ", 
+                    "cityid": "2241", 
+                    "AreaId": "2244", 
+                    "city": null, 
+                    "Airportid": "955", 
+                    "AirportName": "梅县机场"
+                }, 
+                {
+                    "cityname": "绵阳", 
+                    "pinyin": "MIANYANG", 
+                    "py": "MY", 
+                    "szm": "MIG", 
+                    "cityid": "2564", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "956", 
+                    "AirportName": "南郊机场"
+                }, 
+                {
+                    "cityname": "漠河", 
+                    "pinyin": "MOHE", 
+                    "py": "MH", 
+                    "szm": "OHE", 
+                    "cityid": "856", 
+                    "AreaId": "859", 
+                    "city": null, 
+                    "Airportid": "1060", 
+                    "AirportName": "漠河机场"
+                }, 
+                {
+                    "cityname": "牡丹江", 
+                    "pinyin": "MUDANJIANG", 
+                    "py": "MDJ", 
+                    "szm": "MDG", 
+                    "cityid": "824", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "957", 
+                    "AirportName": "海浪机场"
+                }
+            ], 
+            "title": "M"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "南昌", 
+                    "pinyin": "NANCHANG", 
+                    "py": "NC", 
+                    "szm": "KHN", 
+                    "cityid": "1369", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "958", 
+                    "AirportName": "昌北国际机场"
+                }, 
+                {
+                    "cityname": "南充", 
+                    "pinyin": "NANCHONG", 
+                    "py": "NC", 
+                    "szm": "NAO", 
+                    "cityid": "2611", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "959", 
+                    "AirportName": "高坪机场"
+                }, 
+                {
+                    "cityname": "南京", 
+                    "pinyin": "NANJING", 
+                    "py": "NJ", 
+                    "szm": "NKG", 
+                    "cityid": "881", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "960", 
+                    "AirportName": "禄口国际机场"
+                }, 
+                {
+                    "cityname": "南宁", 
+                    "pinyin": "NANNING", 
+                    "py": "NN", 
+                    "szm": "NNG", 
+                    "cityid": "2303", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "961", 
+                    "AirportName": "吴圩国际机场"
+                }, 
+                {
+                    "cityname": "南通", 
+                    "pinyin": "NANTONG", 
+                    "py": "NT", 
+                    "szm": "NTG", 
+                    "cityid": "941", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "962", 
+                    "AirportName": "兴东国际机场"
+                }, 
+                {
+                    "cityname": "南阳", 
+                    "pinyin": "NANYANG", 
+                    "py": "NY", 
+                    "szm": "NNY", 
+                    "cityid": "1797", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "963", 
+                    "AirportName": "姜营机场"
+                }, 
+                {
+                    "cityname": "宁波", 
+                    "pinyin": "NINGBO", 
+                    "py": "NB", 
+                    "szm": "NGB", 
+                    "cityid": "1028", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "964", 
+                    "AirportName": "栎社国际机场"
+                }, 
+                {
+                    "cityname": "宁蒗", 
+                    "pinyin": "NINGLANG", 
+                    "py": "NL", 
+                    "szm": "NLH ", 
+                    "cityid": "2893", 
+                    "AreaId": "2899", 
+                    "city": null, 
+                    "Airportid": "2191", 
+                    "AirportName": "泸沽湖机场"
+                }
+            ], 
+            "title": "N"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "攀枝花", 
+                    "pinyin": "PANZHIHUA", 
+                    "py": "PZH", 
+                    "szm": "PZI", 
+                    "cityid": "2540", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1039", 
+                    "AirportName": "保安营机场"
+                }
+            ], 
+            "title": "P"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "黔江", 
+                    "pinyin": "QIANJIANG", 
+                    "py": "QJ", 
+                    "szm": "JIQ", 
+                    "cityid": "2469", 
+                    "AreaId": "2484", 
+                    "city": null, 
+                    "Airportid": "1078", 
+                    "AirportName": "武陵山机场"
+                }, 
+                {
+                    "cityname": "且末", 
+                    "pinyin": "QIEMO", 
+                    "py": "QM", 
+                    "szm": "IQM", 
+                    "cityid": "3433", 
+                    "AreaId": "3438", 
+                    "city": null, 
+                    "Airportid": "965", 
+                    "AirportName": "且末机场"
+                }, 
+                {
+                    "cityname": "青岛", 
+                    "pinyin": "QINGDAO", 
+                    "py": "QD", 
+                    "szm": "TAO", 
+                    "cityid": "1504", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "966", 
+                    "AirportName": "流亭国际机场"
+                }, 
+                {
+                    "cityname": "庆阳", 
+                    "pinyin": "QINGYANG", 
+                    "py": "QY", 
+                    "szm": "IQN", 
+                    "cityid": "3263", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "968", 
+                    "AirportName": "庆阳机场"
+                }, 
+                {
+                    "cityname": "秦皇岛", 
+                    "pinyin": "QinHuangDao", 
+                    "py": "QHD", 
+                    "szm": "BPE ", 
+                    "cityid": "81", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2172", 
+                    "AirportName": "北戴河机场"
+                }, 
+                {
+                    "cityname": "琼海", 
+                    "pinyin": "QIONGHAI", 
+                    "py": "QH", 
+                    "szm": "BAR", 
+                    "cityid": "2449", 
+                    "AreaId": "2451", 
+                    "city": null, 
+                    "Airportid": "2206", 
+                    "AirportName": "博鳌机场"
+                }, 
+                {
+                    "cityname": "齐齐哈尔", 
+                    "pinyin": "QIQIHAER", 
+                    "py": "QQHE", 
+                    "szm": "NDG", 
+                    "cityid": "727", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "969", 
+                    "AirportName": "三家子机场"
+                }, 
+                {
+                    "cityname": "泉州", 
+                    "pinyin": "QUANZHOU", 
+                    "py": "QZ", 
+                    "szm": "JJN", 
+                    "cityid": "1309", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1055", 
+                    "AirportName": "晋江机场"
+                }, 
+                {
+                    "cityname": "衢州", 
+                    "pinyin": "QUZHOU", 
+                    "py": "HZ", 
+                    "szm": "JUZ", 
+                    "cityid": "1089", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "970", 
+                    "AirportName": "衢州机场"
+                }
+            ], 
+            "title": "Q"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "日喀则", 
+                    "pinyin": "RIKAZE", 
+                    "py": "RKZ", 
+                    "szm": "RKZ", 
+                    "cityid": "3024", 
+                    "AreaId": "3025", 
+                    "city": null, 
+                    "Airportid": "1081", 
+                    "AirportName": "和平机场"
+                }, 
+                {
+                    "cityname": "日照", 
+                    "pinyin": "RIZHAO", 
+                    "py": "RZ", 
+                    "szm": "RIZ ", 
+                    "cityid": "1599", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2193", 
+                    "AirportName": "山字河机场"
+                }
+            ], 
+            "title": "R"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "三明", 
+                    "pinyin": "SANMING", 
+                    "py": "SM", 
+                    "szm": "SQJ ", 
+                    "cityid": "1295", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2195", 
+                    "AirportName": "沙县机场"
+                }, 
+                {
+                    "cityname": "三亚", 
+                    "pinyin": "SANYA", 
+                    "py": "SY", 
+                    "szm": "SYX", 
+                    "cityid": "2447", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "971", 
+                    "AirportName": "凤凰国际机场"
+                }, 
+                {
+                    "cityname": "莎车", 
+                    "pinyin": "SHACHE", 
+                    "py": "SC", 
+                    "szm": "QSZ", 
+                    "cityid": "3458", 
+                    "AreaId": "3464", 
+                    "city": null, 
+                    "Airportid": "2216", 
+                    "AirportName": "莎车机场"
+                }, 
+                {
+                    "cityname": "上海", 
+                    "pinyin": "SHANGHAI", 
+                    "py": "SH", 
+                    "szm": "SHS", 
+                    "cityid": "860", 
+                    "AreaId": "", 
+                    "city": "", 
+                    "Airportid": "", 
+                    "AirportName": ""
+                }, 
+                {
+                    "cityname": "上海虹桥", 
+                    "pinyin": "SHANGHAIHONGQIAO", 
+                    "py": "SHHQ", 
+                    "szm": "SHA", 
+                    "cityid": "860", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "972", 
+                    "AirportName": "虹桥国际机场"
+                }, 
+                {
+                    "cityname": "上海浦东", 
+                    "pinyin": "SHANGHAIPUDONG", 
+                    "py": "SHPD", 
+                    "szm": "PVG", 
+                    "cityid": "860", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "973", 
+                    "AirportName": "浦东国际机场"
+                }, 
+                {
+                    "cityname": "神农架", 
+                    "pinyin": "SHENNONGJIA", 
+                    "py": "SNJ", 
+                    "szm": "HPG", 
+                    "cityid": "1985", 
+                    "AreaId": "1989", 
+                    "city": null, 
+                    "Airportid": "2180", 
+                    "AirportName": "红坪机场"
+                }, 
+                {
+                    "cityname": "沈阳", 
+                    "pinyin": "SHENYANG", 
+                    "py": "SY", 
+                    "szm": "SHE", 
+                    "cityid": "500", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "976", 
+                    "AirportName": "桃仙国际机场"
+                }, 
+                {
+                    "cityname": "深圳", 
+                    "pinyin": "SHENZHEN", 
+                    "py": "SZ", 
+                    "szm": "SZX", 
+                    "cityid": "2167", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "977", 
+                    "AirportName": "宝安国际机场"
+                }, 
+                {
+                    "cityname": "石河子", 
+                    "pinyin": "SHIHEZI", 
+                    "py": "SHZ", 
+                    "szm": "SHF", 
+                    "cityid": "3507", 
+                    "AreaId": "3508", 
+                    "city": null, 
+                    "Airportid": "2208", 
+                    "AirportName": "花园机场"
+                }, 
+                {
+                    "cityname": "石家庄", 
+                    "pinyin": "SHIJIAZHUANG", 
+                    "py": "SJZ", 
+                    "szm": "SJW", 
+                    "cityid": "40", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "978", 
+                    "AirportName": "正定国际机场"
+                }, 
+                {
+                    "cityname": "十堰", 
+                    "pinyin": "SHIYAN", 
+                    "py": "SY", 
+                    "szm": "WDS ", 
+                    "cityid": "1885", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2198", 
+                    "AirportName": "武当山机场"
+                }, 
+                {
+                    "cityname": "思茅", 
+                    "pinyin": "SIMAO", 
+                    "py": "SM", 
+                    "szm": "SYM", 
+                    "cityid": "2900", 
+                    "AreaId": "2902", 
+                    "city": null, 
+                    "Airportid": "1047", 
+                    "AirportName": "思茅机场"
+                }, 
+                {
+                    "cityname": "苏州", 
+                    "pinyin": "SUZHOU", 
+                    "py": "SZ", 
+                    "szm": "SZV", 
+                    "cityid": "928", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "979", 
+                    "AirportName": "苏州机场"
+                }
+            ], 
+            "title": "S"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "塔城", 
+                    "pinyin": "TACHENG", 
+                    "py": "TC", 
+                    "szm": "TCG", 
+                    "cityid": "3491", 
+                    "AreaId": "3492", 
+                    "city": null, 
+                    "Airportid": "980", 
+                    "AirportName": "塔城机场"
+                }, 
+                {
+                    "cityname": "太原", 
+                    "pinyin": "TAIYUAN", 
+                    "py": "TY", 
+                    "szm": "TYN", 
+                    "cityid": "235", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "981", 
+                    "AirportName": "武宿国际机场"
+                }, 
+                {
+                    "cityname": "台州", 
+                    "pinyin": "TAIZHOU", 
+                    "py": "TZ", 
+                    "szm": "HYN", 
+                    "cityid": "1103", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "925", 
+                    "AirportName": "路桥机场"
+                }, 
+                {
+                    "cityname": "唐山", 
+                    "pinyin": "TANGSHAN", 
+                    "py": "TS", 
+                    "szm": "TVS", 
+                    "cityid": "65", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1077", 
+                    "AirportName": "三女河机场"
+                }, 
+                {
+                    "cityname": "腾冲", 
+                    "pinyin": "TENGCHONG", 
+                    "py": "TC", 
+                    "szm": "TCZ", 
+                    "cityid": "2873", 
+                    "AreaId": "2877", 
+                    "city": null, 
+                    "Airportid": "1063", 
+                    "AirportName": "驼峰机场"
+                }, 
+                {
+                    "cityname": "天津", 
+                    "pinyin": "TIANJIN", 
+                    "py": "TJ", 
+                    "szm": "TSN", 
+                    "cityid": "20", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "982", 
+                    "AirportName": "滨海国际机场"
+                }, 
+                {
+                    "cityname": "天水", 
+                    "pinyin": "TIANSHUI", 
+                    "py": "TS", 
+                    "szm": "THQ", 
+                    "cityid": "3222", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1066", 
+                    "AirportName": "麦积山机场"
+                }, 
+                {
+                    "cityname": "通化", 
+                    "pinyin": "TONGHUA", 
+                    "py": "TH", 
+                    "szm": "TNH", 
+                    "cityid": "666", 
+                    "AreaId": "670", 
+                    "city": null, 
+                    "Airportid": "983", 
+                    "AirportName": "通化机场"
+                }, 
+                {
+                    "cityname": "通辽", 
+                    "pinyin": "TONGLIAO", 
+                    "py": "TL", 
+                    "szm": "TGO", 
+                    "cityid": "418", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "984", 
+                    "AirportName": "通辽机场"
+                }, 
+                {
+                    "cityname": "铜仁", 
+                    "pinyin": "TONGREN", 
+                    "py": "TR", 
+                    "szm": "TEN", 
+                    "cityid": "2783", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1043", 
+                    "AirportName": "铜仁凤凰机场"
+                }, 
+                {
+                    "cityname": "吐鲁番", 
+                    "pinyin": "TULUFAN", 
+                    "py": "TLF", 
+                    "szm": "TLQ ", 
+                    "cityid": "3413", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2196", 
+                    "AirportName": "交河机场"
+                }
+            ], 
+            "title": "T"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "万州", 
+                    "pinyin": "WANZHOU", 
+                    "py": "WZ", 
+                    "szm": "WXN", 
+                    "cityid": "2469", 
+                    "AreaId": "2471", 
+                    "city": null, 
+                    "Airportid": "989", 
+                    "AirportName": "五桥机场"
+                }, 
+                {
+                    "cityname": "威海", 
+                    "pinyin": "WEIHAI", 
+                    "py": "WH", 
+                    "szm": "WEH", 
+                    "cityid": "1593", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "991", 
+                    "AirportName": "大水泊机场"
+                }, 
+                {
+                    "cityname": "潍坊", 
+                    "pinyin": "WEIHUANG", 
+                    "py": "WF", 
+                    "szm": "WEF", 
+                    "cityid": "1557", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "990", 
+                    "AirportName": "潍坊机场"
+                }, 
+                {
+                    "cityname": "文山", 
+                    "pinyin": "WENSHAN", 
+                    "py": "WS", 
+                    "szm": "WNH", 
+                    "cityid": "2947", 
+                    "AreaId": "2948", 
+                    "city": null, 
+                    "Airportid": "1053", 
+                    "AirportName": "普者黑机场"
+                }, 
+                {
+                    "cityname": "温州", 
+                    "pinyin": "WENZHOU", 
+                    "py": "WZ", 
+                    "szm": "WNZ", 
+                    "cityid": "1041", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "992", 
+                    "AirportName": "龙湾国际机场"
+                }, 
+                {
+                    "cityname": "乌海", 
+                    "pinyin": "WUHAI", 
+                    "py": "WH", 
+                    "szm": "WUA", 
+                    "cityid": "399", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1046", 
+                    "AirportName": "乌海机场"
+                }, 
+                {
+                    "cityname": "武汉", 
+                    "pinyin": "WUHAN", 
+                    "py": "WH", 
+                    "szm": "WUH", 
+                    "cityid": "1862", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "993", 
+                    "AirportName": "天河国际机场"
+                }, 
+                {
+                    "cityname": "乌兰察布", 
+                    "pinyin": "WULANCHABU", 
+                    "py": "WLCB", 
+                    "szm": "UCB ", 
+                    "cityid": "462", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2197", 
+                    "AirportName": "乌兰察布机场"
+                }, 
+                {
+                    "cityname": "乌兰浩特", 
+                    "pinyin": "WULANHAOTE", 
+                    "py": "WLHT", 
+                    "szm": "HLH", 
+                    "cityid": "475", 
+                    "AreaId": "476", 
+                    "city": null, 
+                    "Airportid": "986", 
+                    "AirportName": "乌兰浩特机场"
+                }, 
+                {
+                    "cityname": "乌鲁木齐", 
+                    "pinyin": "WULUMUQI", 
+                    "py": "WLMQ", 
+                    "szm": "URC", 
+                    "cityid": "3397", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "987", 
+                    "AirportName": "地窝堡国际机场"
+                }, 
+                {
+                    "cityname": "无锡", 
+                    "pinyin": "WUXI", 
+                    "py": "WX", 
+                    "szm": "WUX", 
+                    "cityid": "896", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1030", 
+                    "AirportName": "硕放国际机场"
+                }, 
+                {
+                    "cityname": "武夷山", 
+                    "pinyin": "WUYISHAN", 
+                    "py": "WYS", 
+                    "szm": "WUS", 
+                    "cityid": "1336", 
+                    "AreaId": "1345", 
+                    "city": null, 
+                    "Airportid": "995", 
+                    "AirportName": "武夷山机场"
+                }, 
+                {
+                    "cityname": "梧州", 
+                    "pinyin": "WUZHOU", 
+                    "py": "WZ", 
+                    "szm": "WUZ", 
+                    "cityid": "2348", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "996", 
+                    "AirportName": "长洲岛机场"
+                }
+            ], 
+            "title": "W"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "厦门", 
+                    "pinyin": "XIAMEN", 
+                    "py": "XM", 
+                    "szm": "XMN", 
+                    "cityid": "1280", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "997", 
+                    "AirportName": "高崎国际机场"
+                }, 
+                {
+                    "cityname": "西安", 
+                    "pinyin": "XIAN", 
+                    "py": "XA", 
+                    "szm": "XIY", 
+                    "cityid": "3071", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "998", 
+                    "AirportName": "咸阳国际机场"
+                }, 
+                {
+                    "cityname": "香港", 
+                    "pinyin": "XIANGGANG", 
+                    "py": "XG", 
+                    "szm": "HKG", 
+                    "cityid": "3531", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2170", 
+                    "AirportName": "香港国际机场"
+                }, 
+                {
+                    "cityname": "襄阳", 
+                    "pinyin": "XIANGYANG", 
+                    "py": "XY", 
+                    "szm": "XFN", 
+                    "cityid": "1910", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1033", 
+                    "AirportName": "刘集机场"
+                }, 
+                {
+                    "cityname": "西昌", 
+                    "pinyin": "XICHANG", 
+                    "py": "XC", 
+                    "szm": "XIC", 
+                    "cityid": "2713", 
+                    "AreaId": "2714", 
+                    "city": null, 
+                    "Airportid": "999", 
+                    "AirportName": "青山机场"
+                }, 
+                {
+                    "cityname": "锡林浩特", 
+                    "pinyin": "XILINHAOTE", 
+                    "py": "XLHT", 
+                    "szm": "XIL", 
+                    "cityid": "482", 
+                    "AreaId": "484", 
+                    "city": null, 
+                    "Airportid": "1000", 
+                    "AirportName": "锡林浩特机场"
+                }, 
+                {
+                    "cityname": "兴义", 
+                    "pinyin": "XINGYI", 
+                    "py": "XY", 
+                    "szm": "ACX", 
+                    "cityid": "2795", 
+                    "AreaId": "2796", 
+                    "city": null, 
+                    "Airportid": "1042", 
+                    "AirportName": "兴义机场"
+                }, 
+                {
+                    "cityname": "西宁", 
+                    "pinyin": "XINING", 
+                    "py": "XN", 
+                    "szm": "XNN", 
+                    "cityid": "3312", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1004", 
+                    "AirportName": "曹家堡机场"
+                }, 
+                {
+                    "cityname": "新源", 
+                    "pinyin": "XINYUAN", 
+                    "py": "XY", 
+                    "szm": "NLT", 
+                    "cityid": "3480", 
+                    "AreaId": "3487", 
+                    "city": null, 
+                    "Airportid": "1056", 
+                    "AirportName": "那拉提机场"
+                }, 
+                {
+                    "cityname": "忻州", 
+                    "pinyin": "XINZHOU", 
+                    "py": "XZ", 
+                    "szm": "WUT ", 
+                    "cityid": "326", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2199", 
+                    "AirportName": "五台山机场"
+                }, 
+                {
+                    "cityname": "西双版纳", 
+                    "pinyin": "XISHUANGBANNA", 
+                    "py": "XSBN", 
+                    "szm": "JHG", 
+                    "cityid": "2956", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1005", 
+                    "AirportName": "嘎洒国际机场"
+                }, 
+                {
+                    "cityname": "徐州", 
+                    "pinyin": "XUZHOU", 
+                    "py": "XZ", 
+                    "szm": "XUZ", 
+                    "cityid": "906", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1006", 
+                    "AirportName": "观音国际机场"
+                }
+            ], 
+            "title": "X"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "延安", 
+                    "pinyin": "YANAN", 
+                    "py": "YA", 
+                    "szm": "ENY", 
+                    "cityid": "3135", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1007", 
+                    "AirportName": "二十里铺机场"
+                }, 
+                {
+                    "cityname": "盐城", 
+                    "pinyin": "YANCHENG", 
+                    "py": "YC", 
+                    "szm": "YNZ", 
+                    "cityid": "970", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1008", 
+                    "AirportName": "南洋机场"
+                }, 
+                {
+                    "cityname": "扬州", 
+                    "pinyin": "YANGZHOU", 
+                    "py": "YZ", 
+                    "szm": "YTY", 
+                    "cityid": "981", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2167", 
+                    "AirportName": "扬州泰州机场"
+                }, 
+                {
+                    "cityname": "延吉", 
+                    "pinyin": "YANJI", 
+                    "py": "YJ", 
+                    "szm": "YNJ", 
+                    "cityid": "697", 
+                    "AreaId": "698", 
+                    "city": null, 
+                    "Airportid": "1009", 
+                    "AirportName": "朝阳川国际机场"
+                }, 
+                {
+                    "cityname": "烟台", 
+                    "pinyin": "YANTAI", 
+                    "py": "YT", 
+                    "szm": "YNT", 
+                    "cityid": "1543", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1010", 
+                    "AirportName": "蓬莱国际机场"
+                }, 
+                {
+                    "cityname": "宜宾", 
+                    "pinyin": "YIBIN", 
+                    "py": "YB", 
+                    "szm": "YBP", 
+                    "cityid": "2630", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1011", 
+                    "AirportName": "莱坝机场"
+                }, 
+                {
+                    "cityname": "宜昌", 
+                    "pinyin": "YICHANG", 
+                    "py": "YC", 
+                    "szm": "YIH", 
+                    "cityid": "1895", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1012", 
+                    "AirportName": "三峡机场"
+                }, 
+                {
+                    "cityname": "伊春", 
+                    "pinyin": "YICHUN", 
+                    "py": "YC", 
+                    "szm": "LDS", 
+                    "cityid": "787", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1067", 
+                    "AirportName": "林都机场"
+                }, 
+                {
+                    "cityname": "宜春", 
+                    "pinyin": "YICHUN", 
+                    "py": "YC", 
+                    "szm": "YIC ", 
+                    "cityid": "1452", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2201", 
+                    "AirportName": "明月山机场"
+                }, 
+                {
+                    "cityname": "银川", 
+                    "pinyin": "YINCHUAN", 
+                    "py": "YC", 
+                    "szm": "INC", 
+                    "cityid": "3365", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1014", 
+                    "AirportName": "河东国际机场"
+                }, 
+                {
+                    "cityname": "营口", 
+                    "pinyin": "YINGKOU", 
+                    "py": "YK", 
+                    "szm": "YKH ", 
+                    "cityid": "570", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2203", 
+                    "AirportName": "兰旗机场"
+                }, 
+                {
+                    "cityname": "伊宁", 
+                    "pinyin": "YINING", 
+                    "py": "YN", 
+                    "szm": "YIN", 
+                    "cityid": "3480", 
+                    "AreaId": "3481", 
+                    "city": null, 
+                    "Airportid": "1015", 
+                    "AirportName": "伊宁机场"
+                }, 
+                {
+                    "cityname": "义乌", 
+                    "pinyin": "YIWU", 
+                    "py": "YW", 
+                    "szm": "YIW", 
+                    "cityid": "1078", 
+                    "AreaId": "1086", 
+                    "city": null, 
+                    "Airportid": "1016", 
+                    "AirportName": "义乌机场"
+                }, 
+                {
+                    "cityname": "永州", 
+                    "pinyin": "YONGZHOU", 
+                    "py": "YZ", 
+                    "szm": "LLF", 
+                    "cityid": "2097", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1062", 
+                    "AirportName": "零陵机场"
+                }, 
+                {
+                    "cityname": "榆林", 
+                    "pinyin": "YULIN", 
+                    "py": "YL", 
+                    "szm": "UYN", 
+                    "cityid": "3163", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1017", 
+                    "AirportName": "榆阳机场"
+                }, 
+                {
+                    "cityname": "运城", 
+                    "pinyin": "YUNCHENG", 
+                    "py": "YC", 
+                    "szm": "YCU", 
+                    "cityid": "311", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1036", 
+                    "AirportName": "关公机场"
+                }, 
+                {
+                    "cityname": "玉树", 
+                    "pinyin": "YUSHU", 
+                    "py": "YS", 
+                    "szm": "YUS", 
+                    "cityid": "3351", 
+                    "AreaId": "3352", 
+                    "city": null, 
+                    "Airportid": "1070", 
+                    "AirportName": "玉树巴塘机场"
+                }
+            ], 
+            "title": "Y"
+        }, 
+        {
+            "cities": [
+                {
+                    "cityname": "扎兰屯", 
+                    "pinyin": "ZHALANTUN", 
+                    "py": "ZLT", 
+                    "szm": "NZL", 
+                    "cityid": "438", 
+                    "AreaId": "450", 
+                    "city": null, 
+                    "Airportid": "2210", 
+                    "AirportName": "成吉思汗机场"
+                }, 
+                {
+                    "cityname": "张家界", 
+                    "pinyin": "ZHANGJIAJIE", 
+                    "py": "ZJJ", 
+                    "szm": "DYG", 
+                    "cityid": "2070", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1018", 
+                    "AirportName": "荷花机场"
+                }, 
+                {
+                    "cityname": "张家口", 
+                    "pinyin": "ZHANGJIAKOU", 
+                    "py": "ZJK", 
+                    "szm": "ZQZ ", 
+                    "cityid": "159", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2205", 
+                    "AirportName": "张家口机场"
+                }, 
+                {
+                    "cityname": "张掖", 
+                    "pinyin": "ZHANGYE", 
+                    "py": "ZY", 
+                    "szm": "YZY", 
+                    "cityid": "3237", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "2211", 
+                    "AirportName": "甘州机场"
+                }, 
+                {
+                    "cityname": "湛江", 
+                    "pinyin": "ZHANJIANG", 
+                    "py": "ZJ", 
+                    "szm": "ZHA", 
+                    "cityid": "2205", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1044", 
+                    "AirportName": "湛江机场"
+                }, 
+                {
+                    "cityname": "昭通", 
+                    "pinyin": "ZHAOTONG", 
+                    "py": "ZT", 
+                    "szm": "ZAT", 
+                    "cityid": "2880", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1019", 
+                    "AirportName": "昭通机场"
+                }, 
+                {
+                    "cityname": "郑州", 
+                    "pinyin": "ZHENGZHOU", 
+                    "py": "ZZ", 
+                    "szm": "CGO", 
+                    "cityid": "1667", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1020", 
+                    "AirportName": "新郑国际机场"
+                }, 
+                {
+                    "cityname": "芷江", 
+                    "pinyin": "ZHIJIANG", 
+                    "py": "ZJ", 
+                    "szm": "HJJ", 
+                    "cityid": "2110", 
+                    "AreaId": "2120", 
+                    "city": null, 
+                    "Airportid": "1059", 
+                    "AirportName": "芷江机场"
+                }, 
+                {
+                    "cityname": "中卫", 
+                    "pinyin": "ZHONGWEI", 
+                    "py": "ZW", 
+                    "szm": "ZHY", 
+                    "cityid": "3391", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1072", 
+                    "AirportName": "香山机场"
+                }, 
+                {
+                    "cityname": "舟山", 
+                    "pinyin": "ZHOUSHAN", 
+                    "py": "ZS", 
+                    "szm": "HSN", 
+                    "cityid": "1097", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1021", 
+                    "AirportName": "普陀山机场"
+                }, 
+                {
+                    "cityname": "珠海", 
+                    "pinyin": "ZHUHAI", 
+                    "py": "ZH", 
+                    "szm": "ZUH", 
+                    "cityid": "2175", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1032", 
+                    "AirportName": "金湾机场"
+                }, 
+                {
+                    "cityname": "遵义", 
+                    "pinyin": "ZUNYI", 
+                    "py": "ZY", 
+                    "szm": "ZYI", 
+                    "cityid": "2749", 
+                    "AreaId": "", 
+                    "city": null, 
+                    "Airportid": "1082", 
+                    "AirportName": "遵义机场"
+                }
+            ], 
+            "title": "Z"
+        }
+    ], 
+    "CanFCityArray": null
+}
